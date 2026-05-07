@@ -1,5 +1,5 @@
 ## Crop Classification
-This git repo includes the code for our study "**Deep Learning for Crop Classification Using Multi-Source Satellite Dataé**". Each part does the following : 
+This git repo includes the code for our study "**Deep Learning for Crop Classification Using Multi-Source Satellite Data**". Each part does the following : 
 
 ### AARN_Part1: 
 Implementation of the base classification model "**MCTNet**" proposed by the article, this model gets an OA score of **0.977**.

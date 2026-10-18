@@ -13,3 +13,5 @@ This one is split into three models :
   - IncepTAECovLF
   - HybridCropNet
 
+### Project Report : 
+https://drive.google.com/file/d/12mLxM3zMSiSjxv8z2s5vgo7vEEqiWkJL/view?usp=sharing
